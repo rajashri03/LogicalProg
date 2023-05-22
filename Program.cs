@@ -10,6 +10,9 @@ namespace LogicalProgramming
         static void Main(string[] args)
         {
             Console.WriteLine("Addition!");
+
+
+            Console.WriteLine("division");
         }
     }
 }
